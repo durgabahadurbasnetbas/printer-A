@@ -2,7 +2,7 @@ public class PrinterApp {
     public static void main(String[] args) {
       
         String creator = "Durga Bahadur Basnet"; 
-        int number1 = 5; 
+        int number1 = 10; 
         int number2 = 5; 
         int multiplication; 
         int addition;
