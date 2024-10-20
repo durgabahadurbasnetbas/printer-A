@@ -3,7 +3,7 @@ public class PrinterApp {
       
         String creator = "Durga Bahadur Basnet"; 
         int number1 = 5; 
-        int number2 = 3; 
+        int number2 = 5; 
         int multiplication; 
         int addition;
         int subtraction; 
